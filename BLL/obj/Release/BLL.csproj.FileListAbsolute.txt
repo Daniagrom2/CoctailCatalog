@@ -1,0 +1,17 @@
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\BLL.dll.config
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\BLL.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\BLL.pdb
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\DAL.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\EntityFramework.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\Ninject.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\DAL.pdb
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\DAL.dll.config
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\EntityFramework.xml
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\bin\Release\Ninject.xml
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\obj\Release\BLL.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\BLL\obj\Release\BLL.pdb

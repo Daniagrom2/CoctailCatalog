@@ -1,0 +1,12 @@
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\DAL.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\obj\Debug\DAL.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\DAL\obj\Debug\DAL.pdb

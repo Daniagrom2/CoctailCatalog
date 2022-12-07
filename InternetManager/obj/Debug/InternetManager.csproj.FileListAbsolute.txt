@@ -1,0 +1,6 @@
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\bin\Debug\InternetManager.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\bin\Debug\InternetManager.pdb
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\obj\Debug\InternetManager.csproj.AssemblyReference.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\obj\Debug\InternetManager.csproj.CoreCompileInputs.cache
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\obj\Debug\InternetManager.dll
+C:\Users\Danyil\source\repos\Internet\_NETFinalProject\InternetManager\obj\Debug\InternetManager.pdb
